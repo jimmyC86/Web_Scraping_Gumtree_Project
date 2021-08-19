@@ -1,5 +1,7 @@
 <h1 style="text-align: center;">Web Scraping Gumtree Car & Vehicle Listings</h1>
 
+<img src="gumtree.jpg" />
+
 <h2>What is Gumtree?</h2>
 
 <p>We connect buyers and sellers in the local community, with more than 3 million listings across hundreds of categories you can buy, sell and find just about everything.</p>
