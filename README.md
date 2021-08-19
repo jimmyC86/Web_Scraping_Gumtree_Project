@@ -18,7 +18,7 @@
 
 Here's a representation of the data extracted from Gumtree Car & Vehicle Listings:
 
-<img src='results_table.png' />
+<img src='results_table.PNG' />
 
 <h2>Requirements</h2>
 
